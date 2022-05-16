@@ -7,3 +7,30 @@ body {
     color: #013220;
 }
 
+header {
+    padding: 20px 35px;
+    color:#013220;
+}
+
+header nav {
+    float: center;
+    margin: 7px 0;
+}
+
+header nav ul li {
+    display:inline-flex;
+}
+
+header nav ul li a {
+    margin: 0 10px;
+    font-weight:lighter;
+    font-size: 18px;
+}
+
+.section-title {
+    font-weight: bold;
+    font-size: 30px;
+    color:darkslategray;
+    float: center;
+    margin: 30px;
+}
